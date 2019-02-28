@@ -1,3 +1,3 @@
 # collaborator-docker-elsticsearch
 
-Based on https://github.com/TrackMaven/docker-elasticsearch/tree/master/1.7
+Based on docker.elastic.co/elasticsearch/elasticsearch:5.6.14
